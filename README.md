@@ -6,11 +6,13 @@
 | ------- | ------- |
 | [1345-jump-game-iv](https://github.com/Krishna-Tayal/Leetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [2540-minimum-common-value](https://github.com/Krishna-Tayal/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
+| [2784-check-if-array-is-good](https://github.com/Krishna-Tayal/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1345-jump-game-iv](https://github.com/Krishna-Tayal/Leetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [2540-minimum-common-value](https://github.com/Krishna-Tayal/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
+| [2784-check-if-array-is-good](https://github.com/Krishna-Tayal/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -23,4 +25,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2540-minimum-common-value](https://github.com/Krishna-Tayal/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2784-check-if-array-is-good](https://github.com/Krishna-Tayal/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 <!---LeetCode Topics End-->
