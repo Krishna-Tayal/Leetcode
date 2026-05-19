@@ -1,4 +1,4 @@
-name: Sync Leetcode
+name: LeetCode Sync
 
 on:
   workflow_dispatch:
@@ -6,20 +6,14 @@ on:
     - cron: "0 8 * * *"
 
 jobs:
-  build:
+  sync:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Sync Leetcode Problems
-        uses: joshcai/leetcode-sync@v1.8
+      - name: Checkout
+        uses: actions/checkout@v4
 
+      - name: LeetCode Sync
+        uses: anmol098/waka-readme-stats@master
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          leetcode-csrf-token: ${{ secrets.LEETCODE_CSRF_TOKEN }}
-          leetcode-session: ${{ secrets.LEETCODE_SESSION }}
-
-          destination-folder: Leetcode
-
-          verbose: true
-          commit-header: "[LeetCode Sync]"
-          leetcode-base-url: https://leetcode.com
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
