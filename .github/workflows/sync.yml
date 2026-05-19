@@ -11,7 +11,7 @@ jobs:
 
     steps:
       - name: Sync Leetcode Problems
-        uses: joshcai/leetcode-sync@v1.9
+        uses: joshcai/leetcode-sync@v1.8
 
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
