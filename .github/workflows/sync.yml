@@ -1,4 +1,4 @@
-name: LeetCode Sync
+name: Sync LeetCode
 
 on:
   workflow_dispatch:
@@ -9,11 +9,17 @@ jobs:
   sync:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write
+
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: LeetCode Sync
-        uses: anmol098/waka-readme-stats@master
+      - name: Sync LeetCode submissions
+        uses: ongyx/leetsync-action@v1.3.0
         with:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          leetcode-session: ${{ secrets.LEETCODE_SESSION }}
+          leetcode-csrf-token: ${{ secrets.LEETCODE_CSRF_TOKEN }}
+          destination-folder: LeetCode
