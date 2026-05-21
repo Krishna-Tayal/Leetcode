@@ -10,6 +10,7 @@
 | [2540-minimum-common-value](https://github.com/Krishna-Tayal/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Krishna-Tayal/Leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Krishna-Tayal/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Krishna-Tayal/Leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -18,6 +19,7 @@
 | [2540-minimum-common-value](https://github.com/Krishna-Tayal/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Krishna-Tayal/Leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Krishna-Tayal/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Krishna-Tayal/Leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,8 +48,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Krishna-Tayal/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Krishna-Tayal/Leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Krishna-Tayal/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Krishna-Tayal/Leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 <!---LeetCode Topics End-->
