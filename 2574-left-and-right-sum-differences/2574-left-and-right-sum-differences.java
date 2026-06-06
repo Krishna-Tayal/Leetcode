@@ -20,6 +20,5 @@ class Solution {
             result[i]=Math.abs(leftSum[i]-rightSum[i]);
         }
         return result;
-
     }
 }
