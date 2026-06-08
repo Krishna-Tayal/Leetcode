@@ -9,6 +9,7 @@
 | [0036-valid-sudoku](https://github.com/Krishna-Tayal/Leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [1345-jump-game-iv](https://github.com/Krishna-Tayal/Leetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Krishna-Tayal/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Krishna-Tayal/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Krishna-Tayal/Leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2540-minimum-common-value](https://github.com/Krishna-Tayal/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Krishna-Tayal/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -32,6 +33,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Krishna-Tayal/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/Krishna-Tayal/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -84,4 +86,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Krishna-Tayal/Leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Krishna-Tayal/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 <!---LeetCode Topics End-->
