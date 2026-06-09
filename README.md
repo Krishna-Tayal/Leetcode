@@ -16,6 +16,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Krishna-Tayal/Leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Krishna-Tayal/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Krishna-Tayal/Leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3689-maximum-total-subarray-value-i](https://github.com/Krishna-Tayal/Leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,4 +91,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Krishna-Tayal/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3689-maximum-total-subarray-value-i](https://github.com/Krishna-Tayal/Leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 <!---LeetCode Topics End-->
