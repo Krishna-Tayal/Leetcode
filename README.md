@@ -17,6 +17,7 @@
 | [2784-check-if-array-is-good](https://github.com/Krishna-Tayal/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Krishna-Tayal/Leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/Krishna-Tayal/Leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Krishna-Tayal/Leetcode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,4 +96,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3689-maximum-total-subarray-value-i](https://github.com/Krishna-Tayal/Leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Krishna-Tayal/Leetcode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Krishna-Tayal/Leetcode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Krishna-Tayal/Leetcode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 <!---LeetCode Topics End-->
