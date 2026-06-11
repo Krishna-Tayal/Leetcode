@@ -67,6 +67,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Krishna-Tayal/Leetcode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Krishna-Tayal/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -84,6 +85,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Krishna-Tayal/Leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Krishna-Tayal/Leetcode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,4 +107,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Krishna-Tayal/Leetcode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Krishna-Tayal/Leetcode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 <!---LeetCode Topics End-->
