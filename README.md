@@ -7,6 +7,7 @@
 | [0014-longest-common-prefix](https://github.com/Krishna-Tayal/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Krishna-Tayal/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0036-valid-sudoku](https://github.com/Krishna-Tayal/Leetcode/tree/main/0036-valid-sudoku/) | Medium |
+| [0455-assign-cookies](https://github.com/Krishna-Tayal/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [1345-jump-game-iv](https://github.com/Krishna-Tayal/Leetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Krishna-Tayal/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Krishna-Tayal/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -36,6 +37,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0455-assign-cookies](https://github.com/Krishna-Tayal/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Krishna-Tayal/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Krishna-Tayal/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Krishna-Tayal/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -48,6 +50,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0455-assign-cookies](https://github.com/Krishna-Tayal/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/Krishna-Tayal/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -104,6 +107,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0455-assign-cookies](https://github.com/Krishna-Tayal/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/Krishna-Tayal/Leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Krishna-Tayal/Leetcode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Segment Tree
