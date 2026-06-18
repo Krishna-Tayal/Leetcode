@@ -10,6 +10,7 @@
 | [0045-jump-game-ii](https://github.com/Krishna-Tayal/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Krishna-Tayal/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Krishna-Tayal/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0322-coin-change](https://github.com/Krishna-Tayal/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0455-assign-cookies](https://github.com/Krishna-Tayal/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0724-find-pivot-index](https://github.com/Krishna-Tayal/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [1345-jump-game-iv](https://github.com/Krishna-Tayal/Leetcode/tree/main/1345-jump-game-iv/) | Hard |
@@ -37,6 +38,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0322-coin-change](https://github.com/Krishna-Tayal/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [1345-jump-game-iv](https://github.com/Krishna-Tayal/Leetcode/tree/main/1345-jump-game-iv/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -88,6 +90,7 @@
 | [0045-jump-game-ii](https://github.com/Krishna-Tayal/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Krishna-Tayal/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Krishna-Tayal/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0322-coin-change](https://github.com/Krishna-Tayal/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Krishna-Tayal/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
