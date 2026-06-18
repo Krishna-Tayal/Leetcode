@@ -82,6 +82,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/Krishna-Tayal/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Krishna-Tayal/Leetcode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Krishna-Tayal/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Dynamic Programming
@@ -89,6 +90,7 @@
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/Krishna-Tayal/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Krishna-Tayal/Leetcode/tree/main/0055-jump-game/) | Medium |
+| [0062-unique-paths](https://github.com/Krishna-Tayal/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Krishna-Tayal/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Krishna-Tayal/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Krishna-Tayal/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -145,4 +147,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Krishna-Tayal/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/Krishna-Tayal/Leetcode/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
