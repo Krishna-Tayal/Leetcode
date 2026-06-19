@@ -9,6 +9,7 @@
 | [0036-valid-sudoku](https://github.com/Krishna-Tayal/Leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0045-jump-game-ii](https://github.com/Krishna-Tayal/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Krishna-Tayal/Leetcode/tree/main/0055-jump-game/) | Medium |
+| [0066-plus-one](https://github.com/Krishna-Tayal/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/Krishna-Tayal/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Krishna-Tayal/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0455-assign-cookies](https://github.com/Krishna-Tayal/Leetcode/tree/main/0455-assign-cookies/) | Easy |
@@ -84,6 +85,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Krishna-Tayal/Leetcode/tree/main/0062-unique-paths/) | Medium |
+| [0066-plus-one](https://github.com/Krishna-Tayal/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Krishna-Tayal/Leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Krishna-Tayal/Leetcode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Krishna-Tayal/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
