@@ -17,6 +17,7 @@
 | [1345-jump-game-iv](https://github.com/Krishna-Tayal/Leetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [1732-find-the-highest-altitude](https://github.com/Krishna-Tayal/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Krishna-Tayal/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/Krishna-Tayal/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Krishna-Tayal/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Krishna-Tayal/Leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2540-minimum-common-value](https://github.com/Krishna-Tayal/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
@@ -60,6 +61,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/Krishna-Tayal/Leetcode/tree/main/0455-assign-cookies/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/Krishna-Tayal/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Krishna-Tayal/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -129,6 +131,7 @@
 | [0045-jump-game-ii](https://github.com/Krishna-Tayal/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Krishna-Tayal/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0455-assign-cookies](https://github.com/Krishna-Tayal/Leetcode/tree/main/0455-assign-cookies/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/Krishna-Tayal/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/Krishna-Tayal/Leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Krishna-Tayal/Leetcode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Segment Tree
@@ -156,4 +159,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Krishna-Tayal/Leetcode/tree/main/0062-unique-paths/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Krishna-Tayal/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 <!---LeetCode Topics End-->
