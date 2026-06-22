@@ -32,6 +32,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/Krishna-Tayal/Leetcode/tree/main/0036-valid-sudoku/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/Krishna-Tayal/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1345-jump-game-iv](https://github.com/Krishna-Tayal/Leetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Krishna-Tayal/Leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2540-minimum-common-value](https://github.com/Krishna-Tayal/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
@@ -75,6 +76,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Krishna-Tayal/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/Krishna-Tayal/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Krishna-Tayal/Leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/Krishna-Tayal/Leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Krishna-Tayal/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -162,5 +164,6 @@
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Krishna-Tayal/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Krishna-Tayal/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 <!---LeetCode Topics End-->
