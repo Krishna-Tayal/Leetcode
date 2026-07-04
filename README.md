@@ -50,6 +50,7 @@
 | ------- | ------- |
 | [0322-coin-change](https://github.com/Krishna-Tayal/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [1345-jump-game-iv](https://github.com/Krishna-Tayal/Leetcode/tree/main/1345-jump-game-iv/) | Hard |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Krishna-Tayal/Leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -159,6 +160,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Krishna-Tayal/Leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Krishna-Tayal/Leetcode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -190,4 +192,12 @@
 | ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Krishna-Tayal/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Krishna-Tayal/Leetcode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Krishna-Tayal/Leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Krishna-Tayal/Leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 <!---LeetCode Topics End-->
