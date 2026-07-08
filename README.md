@@ -88,6 +88,7 @@
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Krishna-Tayal/Leetcode/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Krishna-Tayal/Leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/Krishna-Tayal/Leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Krishna-Tayal/Leetcode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Krishna-Tayal/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -102,6 +103,7 @@
 | [1344-angle-between-hands-of-a-clock](https://github.com/Krishna-Tayal/Leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Krishna-Tayal/Leetcode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Krishna-Tayal/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Krishna-Tayal/Leetcode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,6 +125,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/Krishna-Tayal/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Krishna-Tayal/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Krishna-Tayal/Leetcode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Krishna-Tayal/Leetcode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
