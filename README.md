@@ -15,6 +15,7 @@
 | [0455-assign-cookies](https://github.com/Krishna-Tayal/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0724-find-pivot-index](https://github.com/Krishna-Tayal/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [1345-jump-game-iv](https://github.com/Krishna-Tayal/Leetcode/tree/main/1345-jump-game-iv/) | Hard |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Krishna-Tayal/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Krishna-Tayal/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Krishna-Tayal/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Krishna-Tayal/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -71,6 +72,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/Krishna-Tayal/Leetcode/tree/main/0455-assign-cookies/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Krishna-Tayal/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Krishna-Tayal/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Krishna-Tayal/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Krishna-Tayal/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -165,6 +167,7 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Krishna-Tayal/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Krishna-Tayal/Leetcode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
