@@ -107,6 +107,7 @@
 | [0062-unique-paths](https://github.com/Krishna-Tayal/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/Krishna-Tayal/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Krishna-Tayal/Leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Krishna-Tayal/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Krishna-Tayal/Leetcode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Krishna-Tayal/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Krishna-Tayal/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -124,6 +125,7 @@
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Krishna-Tayal/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Krishna-Tayal/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
