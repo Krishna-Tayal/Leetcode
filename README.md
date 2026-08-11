@@ -15,6 +15,7 @@
 | [0455-assign-cookies](https://github.com/Krishna-Tayal/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0724-find-pivot-index](https://github.com/Krishna-Tayal/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0860-lemonade-change](https://github.com/Krishna-Tayal/Leetcode/tree/main/0860-lemonade-change/) | Easy |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Krishna-Tayal/Leetcode/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
 | [1345-jump-game-iv](https://github.com/Krishna-Tayal/Leetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Krishna-Tayal/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Krishna-Tayal/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -39,6 +40,7 @@
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/Krishna-Tayal/Leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Krishna-Tayal/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Krishna-Tayal/Leetcode/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
 | [1345-jump-game-iv](https://github.com/Krishna-Tayal/Leetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Krishna-Tayal/Leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Krishna-Tayal/Leetcode/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
@@ -121,6 +123,7 @@
 | [0062-unique-paths](https://github.com/Krishna-Tayal/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Krishna-Tayal/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Krishna-Tayal/Leetcode/tree/main/0322-coin-change/) | Medium |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Krishna-Tayal/Leetcode/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Krishna-Tayal/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
