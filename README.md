@@ -31,6 +31,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Krishna-Tayal/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Krishna-Tayal/Leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Krishna-Tayal/Leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Krishna-Tayal/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/Krishna-Tayal/Leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Krishna-Tayal/Leetcode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Krishna-Tayal/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -52,6 +53,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Krishna-Tayal/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Krishna-Tayal/Leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Krishna-Tayal/Leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Krishna-Tayal/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Krishna-Tayal/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Krishna-Tayal/Leetcode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Breadth-First Search
