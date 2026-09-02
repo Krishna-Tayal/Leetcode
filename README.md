@@ -40,6 +40,7 @@
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Krishna-Tayal/Leetcode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/Krishna-Tayal/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Krishna-Tayal/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/Krishna-Tayal/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,6 +128,7 @@
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Krishna-Tayal/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Krishna-Tayal/Leetcode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Krishna-Tayal/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/Krishna-Tayal/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
