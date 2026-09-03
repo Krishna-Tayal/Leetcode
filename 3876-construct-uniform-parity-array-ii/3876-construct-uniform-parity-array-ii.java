@@ -20,8 +20,8 @@ class Solution {
         }
 
         for(int val : nums1){
-            if(val % 2 == 0){
-                if(min % 2 == 0) return false; 
+            if(val % 2 == 0 && min % 2 == 0){
+                return false; 
             }
         }
 
