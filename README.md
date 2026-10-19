@@ -23,6 +23,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Krishna-Tayal/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Krishna-Tayal/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Krishna-Tayal/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Krishna-Tayal/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Krishna-Tayal/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Krishna-Tayal/Leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2540-minimum-common-value](https://github.com/Krishna-Tayal/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
@@ -83,6 +84,7 @@
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Krishna-Tayal/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Krishna-Tayal/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Krishna-Tayal/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/Krishna-Tayal/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -90,6 +92,7 @@
 | [0455-assign-cookies](https://github.com/Krishna-Tayal/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Krishna-Tayal/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Krishna-Tayal/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Krishna-Tayal/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/Krishna-Tayal/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Krishna-Tayal/Leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Krishna-Tayal/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
